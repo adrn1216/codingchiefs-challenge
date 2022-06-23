@@ -11,6 +11,7 @@ const InputWithButton = ({
   buttonText,
 }) => {
   return (
+    // I use a form here so clicking "Enter" key will add an item instead of just clicking the button
     <StyledInputWithButton onSubmit={onSubmit}>
       <input
         type={type}
