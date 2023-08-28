@@ -1,3 +1,5 @@
+<img width="1680" alt="image" src="https://github.com/adrn1216/codingchiefs-challenge/assets/54650462/05e47f43-7770-4b2f-880a-806ef30f3ae1">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
